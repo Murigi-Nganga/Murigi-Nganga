@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Mobile Development (Flutter) and GraphQL**
+- 🌱 I’m currently learning **Mobile Development (Flutter) and ExpressJS**
 
 ## 🚀 Languages and Tools
 
