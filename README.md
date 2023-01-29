@@ -12,7 +12,6 @@
 <a href="https://www.djangoproject.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://vuejs.org/.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://mui.com/"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
@@ -37,8 +36,4 @@
     <a href="https://github.com/Murigi-Nganga/github-readme-stats"><img alt="Murigi-Nganga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Murigi-Nganga&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br><br>
   <a href="https://github.com/Murigi-Nganga/github-readme-stats"><img alt="Murigi-Nganga's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murigi-Nganga&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<br/>
-
-<a href="https://github.com/Murigi-Nganga/github-readme-activity-graph"><img alt="Murigi-Nganga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Murigi-Nganga&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
