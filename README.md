@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Mobile Development (Flutter) and ExpressJS**
+- 🌱 I’m currently learning **Android with Kotlin**
 
 ## 🚀 Languages and Tools
 
