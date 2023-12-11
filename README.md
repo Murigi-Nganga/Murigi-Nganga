@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Murigi Ng'ang'a</h1>
-<h4 align="center">A passionate developer</h4>
+<h4 align="center">A passionate software engineer</h4>
 
-- 🌱 I’m currently learning mobile development, with an inclination toward Android.
+- 🌱 I’m currently learning Flutter, React and Django
 
 ## 🚀 Languages and Tools
 
