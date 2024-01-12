@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Murigi Ng'ang'a</h1>
 <h4 align="center">A passionate software engineer</h4>
 
-- 🌱 I’m interested in mobile (Flutter and Kotlin) and backend development (Django, Spring Boot, ExpressJS)
+- 🌱 I’m interested in mobile (Flutter) and backend development (Django, Spring Boot, ExpressJS)
 
 ## 🚀 Languages and Tools
 
