@@ -18,6 +18,6 @@
     <a href="https://console.firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
     <a href="https://graphql.org/"><img src="https://img.icons8.com/color/48/000000/graphql.png"/></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=80&id=LwQEs9KnDgIo&format=png" alt="postman" width="40" height="40"/></a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>a
+    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
     <a href="https://portal.azure.com/"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a>
 </p>
