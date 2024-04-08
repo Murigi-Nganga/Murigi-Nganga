@@ -2,6 +2,7 @@
 <h4 align="center">A passionate software engineer</h4>
 
 - 🌱 Currently working with Flutter, React & Spring Boot (Java)
+- 📚 Learning all things state management
 
 ## 🚀 Languages and Tools
 
