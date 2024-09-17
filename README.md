@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Murigi Ng'ang'a</h1>
-<h4 align="center">A passionate software engineer</h4>
+<h4 align="center">Software Engineer</h4>
 
-- 🌱 Currently working with Flutter, React & Spring Boot (Java)
-- 📚 Learning all things state management
+- 🌱 Currently working with Flutter, React & Django
+- 📚 Learning all things state management, authentication and .NET :)
 
 ## 🚀 Languages and Tools
 
