@@ -2,7 +2,7 @@
 <h4 align="center">Software Engineer</h4>
 
 - 🌱 Currently working with Flutter, Next.js & Go
-- 📚 Learning all things state management and authentication
+- 📚 Building, building, building ...
 
 ## 🚀 Languages and Tools
 
