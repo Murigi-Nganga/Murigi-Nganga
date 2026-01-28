@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Murigi Ng'ang'a</h1>
 <h4 align="center">Software Engineer</h4>
 
-- 🌱 Currently working with Flutter, Next.js & Go
+- 🌱 Currently working with Flutter, Swift & Go
 - 📚 Building, building, building ...
 
 ## 🚀 Languages and Tools
